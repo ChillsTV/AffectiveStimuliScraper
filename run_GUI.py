@@ -21,7 +21,6 @@ keywordsString = StringVar()
 levelSet = IntVar()
 scrapeThresholdSet = StringVar()
 
-# DEVELOPER_KEY = "AIzaSyCfvuQuwTtkNszQ60xO7lI2PbLXp2XDU5M"
 DEVELOPER_KEY = "xxxx"
 wordlist_english = ["frisson", "chill", "gooseflesh", "goosebump"]
 writeToFile = False
