@@ -28,6 +28,8 @@ Download clients_secrets.json file created by the credentials and place in the p
 
 Input the corresponding information when prompted by the GUI
 
+NOTE: In first run, the terminal will provide a link to autheticate the google API service. Paste that link in the browser and follow the steps. Paste the key generated in the end in terminal.
+
 
 # GUI Parameters Fields Descriptions
 
